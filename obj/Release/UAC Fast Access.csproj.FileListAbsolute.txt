@@ -1,0 +1,20 @@
+F:\Users\Jack Pomi\source\repos\UAC Fast Access\obj\Release\UAC Fast Access.csproj.AssemblyReference.cache
+F:\Users\Jack Pomi\source\repos\UAC Fast Access\obj\Release\UAC_Fast_Access.Form1.resources
+F:\Users\Jack Pomi\source\repos\UAC Fast Access\obj\Release\UAC Fast Access.csproj.GenerateResource.cache
+F:\Users\Jack Pomi\source\repos\UAC Fast Access\obj\Release\UAC Fast Access.csproj.CoreCompileInputs.cache
+F:\Users\Jack Pomi\source\repos\UAC Fast Access\bin\Release\UAC QuickAccess.exe.config
+F:\Users\Jack Pomi\source\repos\UAC Fast Access\bin\Release\UAC QuickAccess.exe
+F:\Users\Jack Pomi\source\repos\UAC Fast Access\bin\Release\UAC QuickAccess.pdb
+F:\Users\Jack Pomi\source\repos\UAC Fast Access\obj\Release\UAC_QuickAccess.Properties.Resources.resources
+F:\Users\Jack Pomi\source\repos\UAC Fast Access\obj\Release\UAC QuickAccess.exe
+F:\Users\Jack Pomi\source\repos\UAC Fast Access\obj\Release\UAC QuickAccess.pdb
+F:\Users\Jack Pomi\source\repos\UAC StrippedDown\obj\Release\UAC Fast Access.csproj.AssemblyReference.cache
+F:\Users\Jack Pomi\source\repos\UAC StrippedDown\obj\Release\UAC_Fast_Access.Form1.resources
+F:\Users\Jack Pomi\source\repos\UAC StrippedDown\obj\Release\UAC Fast Access.csproj.GenerateResource.cache
+F:\Users\Jack Pomi\source\repos\UAC StrippedDown\obj\Release\UAC Fast Access.csproj.CoreCompileInputs.cache
+F:\Users\Jack Pomi\source\repos\UAC StrippedDown\bin\Release\UQA StrippedDown.exe.config
+F:\Users\Jack Pomi\source\repos\UAC StrippedDown\bin\Release\UQA StrippedDown.exe
+F:\Users\Jack Pomi\source\repos\UAC StrippedDown\bin\Release\UQA StrippedDown.pdb
+F:\Users\Jack Pomi\source\repos\UAC StrippedDown\obj\Release\UQA_StrippedDown.Properties.Resources.resources
+F:\Users\Jack Pomi\source\repos\UAC StrippedDown\obj\Release\UQA StrippedDown.exe
+F:\Users\Jack Pomi\source\repos\UAC StrippedDown\obj\Release\UQA StrippedDown.pdb
